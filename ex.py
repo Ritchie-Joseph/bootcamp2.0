@@ -1,3 +1,3 @@
-x = 20
-y = 30
+x = 50
+y = 80
 print("The sum is", x+y)
